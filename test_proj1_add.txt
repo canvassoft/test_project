@@ -2,3 +2,4 @@ add topic_d-develop_conf
 add common rep change
 add common req
 add topic
+add hadoop
